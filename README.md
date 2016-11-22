@@ -1,4 +1,4 @@
 # openfuck.github.io
 OpenFUCK Website
 
-Wiki https://github.com/openfuck/documents/wiki
+Wiki https://github.com/openfuckorg/documents/wiki
