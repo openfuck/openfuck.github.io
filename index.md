@@ -7,7 +7,7 @@ Please visit the wiki at <https://github.com/openfuck/documents/wiki>
 
 Contact email : OpenFrobot@gmail.com
 
-Demo Video (with Google Hangouts Control) : <https://youtu.be/GKx-l-5bF9c>
+Demo Video (with WebApp Control + Google Hangouts Demo) : <https://youtu.be/GKx-l-5bF9c>
 
 Extended Demo Video (Caveat : early hardware was extremely noisy, this is improving with newer designs) : <https://youtu.be/cbu32DuFrmk>
 
